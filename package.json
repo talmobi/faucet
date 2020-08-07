@@ -1,6 +1,6 @@
 {
   "name": "@talmobi/faucet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "human-readable TAP summarizer",
   "main": "index.js",
   "bin": {
